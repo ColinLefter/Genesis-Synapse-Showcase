@@ -1,16 +1,20 @@
 # Genesis Synapse Showcase
 
 ## About
-Genesis Synapse is an advanced quantitative trading platform for cryptocurrency leveraging the power of quantitative analysis. Being over two years in development, Genesis Synapse presents a sophisticated suite of products for algorithmic trading and quantitative research. These products are designed to cover the complete pipeline of developing and deploying advanced trading algorithms while leveraging complete automation and high-frequency trading at scale. From risk-management to financial-modelling, Genesis Synapse provides investors with a complete, transparent algorithmic trading environment from start to finish. A fully interactive quantitative trading platform constitutes the headliner for Generation 3 of Genesis Synapse (GS3). In addition, GS3 introduces multi-asset trading support, enabling investors to not only design and simulate the performance of an actively managed fund, but also trade that fund in real-time without compromising speed. GS3 brings Genesis Synapse closer than ever before towards a hedge fund, bridging the gap between retail investing and institutional trading.
+Genesis Synapse is an advanced quantitative trading platform leveraging the power of quantitative analysis. Being over two years in development, Genesis Synapse presents a sophisticated suite of products for algorithmic trading and quantitative research. Our products strategically span the two major sectors of algorithmic trading and quantitative research, which is what enables us to provide a comprehensive system where each product complements another. These products are designed to cover the complete pipeline of developing and deploying advanced trading algorithms while leveraging complete automation and high-frequency trading at scale. From risk-management to financial-modelling, Genesis Synapse provides investors with a complete, transparent algorithmic trading environment from start to finish. A fully interactive quantitative trading platform constitutes the headliner for Generation 3 of Genesis Synapse (GS3). In addition, GS3 introduces multi-asset trading support, enabling investors to not only design and simulate the performance of an actively managed fund, but also trade that fund in real-time without compromising speed. GS3 brings Genesis Synapse closer than ever before towards a hedge fund, bridging the gap between retail investing and institutional trading. Although our internal systems were initially designed to work with cryptocurrency, we intend to scale Genesis Synapse to be compatible with brokers across other financial markets.
 
 ## Our Products
 ### 1. Live Control Sequence
+Access our real-time dashboard to manage assets under management (AUM). With advanced risk-management tools and full automation, manage up to 232 assets simultaneously. Optimize both individual and grouped asset performance for peace of mind.
 
 ### 2. Backtesting Suite
+Utilize our robust backtesting system to craft and deploy sophisticated trading strategies. With 25+ risk-management features, leverage our multi-asset algorithm to simultaneously test up to 232 assets at once. Gain full control over AUM and individual allocations to refine your strategies.
 
 ### 3. GS-TIDAL
+Dive into our comprehensive Trading Inferential Data Analysis Laboratory (TIDAL) to develop cutting-edge trading strategies. Home to our proprietary GS-TIDAL algorithm, benefit from rapid and precise trade analysis through Monte Carlo simulations and optimized data structures.
 
 ### 4. Paper Trading
+Engage with our dynamic paper trading sandbox to safely validate your trading strategies. Operate in real-time conditions using live market data, without executing actual trades. Capture critical data points to fine-tune your algorithms, ensuring optimal performance before going live.
 
 ## Product Catalogue
 
@@ -45,3 +49,9 @@ Genesis Synapse is an advanced quantitative trading platform for cryptocurrency 
   <img width="1268" alt="BacktestingLight2" src="https://github.com/ColinLefter/Genesis-Synapse-Showcase/assets/68645918/81a685e7-cf69-4d60-b137-9c97ec094fc2">
   <img width="1268" alt="BacktestingLight3" src="https://github.com/ColinLefter/Genesis-Synapse-Showcase/assets/68645918/8642311e-0dff-4b68-a598-bf3a38b4f744">
 </div>
+
+### Disclaimers
+1. Genesis Synapse and its constituent products or generations, including, but not limited to, _Live Control Sequence, Backtesting Suite, GS-TIDAL, Paper Trading and GS3_ are currently not available to the public. If you are interested in learning more about Genesis Synapse, please do not hesitate to contact me via any of my socials on my GitHub profile.
+2. Default copright laws apply to Genesis Synapse and its constituent products, artwork or generations, including, but not limited to, _Live Control Sequence, Backtesting Suite, GS-TIDAL, Paper Trading and GS3.
+
+Copyright © 2023 Colin Lefter
