@@ -1,5 +1,17 @@
 # Genesis Synapse Showcase
 
+## About
+Genesis Synapse is an advanced quantitative trading platform for cryptocurrency leveraging the power of quantitative analysis. Being over two years in development, Genesis Synapse presents a sophisticated suite of products for algorithmic trading and quantitative research. These products are designed to cover the complete pipeline of developing and deploying advanced trading algorithms while leveraging complete automation and high-frequency trading at scale. From risk-management to financial-modelling, Genesis Synapse provides investors with a complete, transparent algorithmic trading environment from start to finish. A fully interactive quantitative trading platform constitutes the headliner for Generation 3 of Genesis Synapse (GS3). In addition, GS3 introduces multi-asset trading support, enabling investors to not only design and simulate the performance of an actively managed fund, but also trade that fund in real-time without compromising speed. GS3 brings Genesis Synapse closer than ever before towards a hedge fund, bridging the gap between retail investing and institutional trading.
+
+## Our Products
+### 1. Live Control Sequence
+
+### 2. Backtesting Suite
+
+### 3. GS-TIDAL
+
+### 4. Paper Trading
+
 ## Product Catalogue
 
 <div style="display: flex;">
