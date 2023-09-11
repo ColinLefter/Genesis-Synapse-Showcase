@@ -19,8 +19,8 @@ Engage with our dynamic paper trading sandbox to safely validate your trading st
 ## Product Catalogue
 
 <div style="display: flex;">
-  <img alt="HomeDark1" src="https://github.com/ColinLefter/Genesis-Synapse-Showcase/assets/68645918/2ad2bdbc-da56-489d-a997-e1e0022c772d">
-  <img alt="HomeLight1" src="https://github.com/ColinLefter/Genesis-Synapse-Showcase/assets/68645918/ad290ecf-a3c3-4fdf-b512-dca76ad62718">
+  <img alt="GS3HomeDark" src="https://github.com/ColinLefter/Genesis-Synapse-Showcase/assets/68645918/51bb0da4-8284-4227-a8b0-571780c4984d">
+  <img alt="GSHomeLight" src="https://github.com/ColinLefter/Genesis-Synapse-Showcase/assets/68645918/6d49a441-5a41-4980-8ab9-441f637ea1f0">
 </div>
 
 ## Systems Login
@@ -33,8 +33,8 @@ Engage with our dynamic paper trading sandbox to safely validate your trading st
 ## Live Control Sequence
 
 <div style="display: flex;">
-  <img width="1280" alt="LiveControlSequenceDark" src="https://github.com/ColinLefter/Genesis-Synapse-Showcase/assets/68645918/dfc04e02-34ee-46f7-9d6b-f2e6dc5f132f">
-  <img width="1280" alt="LiveControlSequenceLight" src="https://github.com/ColinLefter/Genesis-Synapse-Showcase/assets/68645918/f0c7e350-75fb-4319-b134-e785b381b70e">
+  <img alt="GS3LiveDark" src="https://github.com/ColinLefter/Genesis-Synapse-Showcase/assets/68645918/65324288-cce3-4d8e-9bf5-08ca7bf5a564">
+  <img alt="GS3LiveLight" src="https://github.com/ColinLefter/Genesis-Synapse-Showcase/assets/68645918/3ca4a9a3-2fad-4ea2-b7df-51c815db31c3">
 </div>
 
 ## Backtesting Suite
