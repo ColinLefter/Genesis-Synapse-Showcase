@@ -12,20 +12,20 @@ Genesis Synapse is an advanced quantitative trading platform leveraging the powe
 
 ### 1. Live Control Sequence
 
+Access our real-time dashboard to manage assets under management (AUM). With advanced risk-management tools and full automation, manage up to 232 assets simultaneously. Optimize both individual and grouped asset performance for peace of mind.
+
 ![Home Page](assets/LiveDark.png)
 ![Home Page](assets/LiveLight.png)
 
-Access our real-time dashboard to manage assets under management (AUM). With advanced risk-management tools and full automation, manage up to 232 assets simultaneously. Optimize both individual and grouped asset performance for peace of mind.
-
 ### 2. Backtesting Suite
+
+Utilize our robust backtesting system to craft and deploy sophisticated trading strategies. With 25+ risk-management features, leverage our multi-asset algorithm to simultaneously test up to 232 assets at once. Gain full control over AUM and individual allocations to refine your strategies.
 
 ![Home Page](assets/BacktestDark1.png)
 ![Home Page](assets/BacktestLight1.png)
 
 ![Home Page](assets/BacktestDark2.png)
 ![Home Page](assets/BacktestLight2.png)
-
-Utilize our robust backtesting system to craft and deploy sophisticated trading strategies. With 25+ risk-management features, leverage our multi-asset algorithm to simultaneously test up to 232 assets at once. Gain full control over AUM and individual allocations to refine your strategies.
 
 ### 3. GS-TIDAL (Coming Soon)
 
