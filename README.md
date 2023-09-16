@@ -2,7 +2,7 @@
 
 ## Developer Walkthrough (Early Access)
 
-[![Video Name](https://github.com/ColinLefter/Genesis-Synapse-Showcase/assets/68645918/d81acbb4-9142-436e-a00c-0850c1a44a4a)](https://vimeo.com/865036319?share=copy)
+[![Video Name](assets/WalkthroughThumbnail.png)](https://vimeo.com/865036319?share=copy)
 
 ## About
 
