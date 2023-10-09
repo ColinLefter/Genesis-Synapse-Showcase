@@ -1,5 +1,7 @@
 # Genesis Synapse Showcase
 
+![GS3Compressed](https://github.com/ColinLefter/Genesis-Synapse-Showcase/assets/68645918/ac043308-75be-428b-9ca9-da715830e815)
+
 ## Developer Walkthrough (Early Access)
 
 [![Video Name](assets/WalkthroughThumbnail.png)](https://vimeo.com/865036319?share=copy)
