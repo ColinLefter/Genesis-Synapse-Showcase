@@ -51,6 +51,6 @@ Engage with our dynamic paper trading sandbox to safely validate your trading st
 
 1. Genesis Synapse and its constituent products or generations, including, but not limited to, _Live Control Sequence, Backtesting Suite, GS-TIDAL, Paper Trading, and GS3_ are currently not publicly available. If you are interested in learning more about Genesis Synapse, please do not hesitate to contact me via any of my socials on my GitHub profile.
 2. Default copyright laws apply to Genesis Synapse and its constituent products, artwork, or generations, including, but not limited to, _Live Control Sequence, Backtesting Suite, GS-TIDAL, Paper Trading, and GS3_.
-3. All results displayed across all product images are fictional and purely for demonstration purposes.
+3. All account-specific results displayed across all product images are fictional and purely for demonstration purposes.
 
 Copyright © 2023 Colin Lefter
