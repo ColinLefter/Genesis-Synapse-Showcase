@@ -53,4 +53,4 @@ Engage with our dynamic paper trading sandbox to safely validate your trading st
 2. Default copyright laws apply to Genesis Synapse and its constituent products, artwork, or generations, including, but not limited to, _Live Control Sequence, Backtesting Suite, GS-TIDAL, Paper Trading, and GS3_.
 3. All account-specific results displayed across all product images are fictional and purely for demonstration purposes.
 
-Copyright © 2023 Colin Lefter
+Copyright © 2024 Colin Lefter
