@@ -4,11 +4,11 @@
 
 ## Developer Walkthrough | Introducing Genesis Quantitative Platforms
 
-[![Video Name](assets/WalkthroughThumbnail2.png)]([https://vimeo.com/865036319?share=copy](https://vimeo.com/904350203?share=copy))
+[![GQP](assets/WalkthroughThumbnail2.png)](https://vimeo.com/904350203?share=copy)
 
 ## Developer Walkthrough (Early Access)
 
-[![Video Name](assets/WalkthroughThumbnail.png)](https://vimeo.com/865036319?share=copy)
+[![Genesis Synapse](assets/WalkthroughThumbnail.png)](https://vimeo.com/865036319?share=copy)
 
 ## About
 
