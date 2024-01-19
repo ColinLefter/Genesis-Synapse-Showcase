@@ -2,6 +2,10 @@
 
 ![GS3GIF](https://github.com/ColinLefter/Genesis-Synapse-Showcase/assets/68645918/fb33d00a-78ab-4e0a-94a0-1602e98c964b)
 
+## Developer Walkthrough | Introducing Genesis Quantitative Platforms
+
+[![Video Name](assets/WalkthroughThumbnail.png)]([https://vimeo.com/865036319?share=copy](https://vimeo.com/904350203?share=copy))
+
 ## Developer Walkthrough (Early Access)
 
 [![Video Name](assets/WalkthroughThumbnail.png)](https://vimeo.com/865036319?share=copy)
