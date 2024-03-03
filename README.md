@@ -1,4 +1,5 @@
-![GQP Logo](assets/GQPWhiteThick.png)
+![GQP Logo](assets/GQPWhiteThick.png#gh-dark-mode-only)
+![GQP Logo](assets/GQPBlackThick.png#gh-light-mode-only)
 
 Genesis Quantitative Platforms is an algorithmic trading platform that offers data-driven infrastructure for cryptocurrency spot trading. Genesis Synapse is our flagship product that fuses quantitative analysis with algorithmic trading to provide quantitative traders with a complete end-to-end solution for developing, deploying and maintaining fully automated trading systems.
 
