@@ -13,7 +13,7 @@ Over three years in development, Genesis Synapse presents a sophisticated suite 
 
 ![AccountsTerminal](assets/AccountsTerminal.png)
 
-Our 4-fold portfolio-driven interface—switch between our simulated and live trading products through our Session View.
+Our trifold portfolio-driven interface—switch between our simulated and live trading products through our Session View.
 
 ## Asset Management
 
