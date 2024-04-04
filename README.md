@@ -5,7 +5,7 @@ Genesis Quantitative Platforms is an algorithmic trading platform offering data-
 
 ## Synapse
 
-![GQP Landing](assets/GQPLandingLightLatest.png)
+![GQP Landing](assets/LandingPage.png)
 
 Over three years in development, Genesis Synapse presents a sophisticated suite of products that strategically span the two major sectors of algorithmic trading and quantitative research, providing a comprehensive ecosystem of products that enable the strategic development and deployment of trading strategies for a network of assets. These products cover the complete pipeline of developing and deploying advanced trading algorithms while leveraging complete automation and multi-asset trading at scale. From risk management to quantitative modelling, Synapse provides quantitative traders with a portfolio-driven, transparent algorithmic trading environment optimized for research and deployment.
 
