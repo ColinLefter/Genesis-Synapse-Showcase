@@ -36,6 +36,7 @@ Discover rich account analytics and performance-critical algorithm data. Leverag
 ## GS-TIDAL
 
 ![TIDAL](assets/TIDAL.png)
+![TIDAL](assets/TIDALParameterSnapshot.png)
 
 Dive into our comprehensive Trading Inferential Data Analysis Laboratory (TIDAL) to improve trading strategies. Track transaction states with our proprietary Parameter Snapshot feature.
 
