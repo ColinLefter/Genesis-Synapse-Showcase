@@ -118,10 +118,6 @@ Compare your performance across long/short positions with a dual-axis account ba
 
 View your profit and loss account alongside your algorithm parameters.
 
-#### Transaction insights
-
-View portfolio-wide transactions and key transaction insights through an interactive data table.
-
 ### Dedicated algorithm insights
 
 <img src="assets/App/ParameterView.png" alt="GQP Landing" width="100%" />
