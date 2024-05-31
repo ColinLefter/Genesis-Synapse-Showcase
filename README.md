@@ -1,82 +1,180 @@
-![GQP Logo](assets/Light/GQPBlackThick.png#gh-light-mode-only)
-![GQP Logo](assets/Dark/GQPWhiteThick.png#gh-dark-mode-only)
+![GQP Landing](assets/Branding/GQPBannerLarge.png)
 
-Genesis Quantitative Platforms (GQP) is an algorithmic trading platform offering data-driven infrastructure for cryptocurrency spot trading. Synapse is our flagship product that fuses quantitative analysis with algorithmic trading to provide quantitative traders with a complete end-to-end solution for developing, deploying and maintaining fully automated trading systems.
+Genesis Quantitative Platforms offers data-driven infrastructure for quantitative trading. Synapse is the flagship product that provides an end-to-end solution for developing, deploying, and maintaining fully automated trading systems by leveraging tools for quantitative analysis. From risk management to quantitative modeling, Synapse provides quantitative traders with a portfolio-driven, transparent algorithmic trading environment optimized for research and deployment.
 
-## Synapse
+# Account Overview
 
-![GQP Landing](assets/Light/L_LandingPage.png#gh-light-mode-only)
-![GQP Landing](assets/Dark/D_LandingPage.png#gh-dark-mode-only)
+A trifold portfolio-driven interface—switch between simulated and live trading environments through the Portfolio Navigator
 
-Over three years in development, Synapse presents a sophisticated suite of products that strategically span the two major sectors of algorithmic trading and quantitative research, providing a comprehensive ecosystem of products that enable the strategic development and deployment of trading strategies for a network of assets. These products cover the complete pipeline of developing and deploying advanced trading algorithms while leveraging complete automation and multi-asset trading at scale. From risk management to quantitative modelling, Synapse provides quantitative traders with a portfolio-driven, transparent algorithmic trading environment optimized for research and deployment.
+![GQP Landing](assets/App/AccountOverview.png)
+![GQP Landing](assets/App/NewAccount1.png)
 
-## Accounts Terminal
+# Asset Management
 
-![AccountsTerminal](assets/Light/L_AccountsTerminal.png#gh-light-mode-only)
-![AccountsTerminal](assets/Light/L_NewAccount.png#gh-light-mode-only)
-![AccountsTerminal](assets/Light/L_AccountsTerminalNew.png#gh-light-mode-only)
-![AccountsTerminal](assets/Dark/D_AccountsTerminal.png#gh-dark-mode-only)
-![AccountsTerminal](assets/Dark/D_NewAccount.png#gh-dark-mode-only)
-![AccountsTerminal](assets/Dark/D_AccountsTerminalNew.png#gh-dark-mode-only)
+Discover rich portfolio management settings spanning allocation multipliers, actively managed fund allocations, data resolution, and risk-reward inputs
 
-Our trifold portfolio-driven interface—switch between our simulated and live trading products through our Session View.
+<div align="center" style="display: flex; flex-direction: column; align-items: center; gap: 0%; margin-bottom: 20px;">
+  <div align="center" style="display: flex; justify-content: center; gap: 0%;">
+    <img src="assets/App/AssetManagement1.png" alt="GQP Landing" width="100%" />
+  </div>
+  <div align="center" style="display: flex; justify-content: center; gap: 0%;">
+    <img src="assets/App/Focus/AssetManagement2.png" alt="GQP Landing" width="50%" />
+    <img src="assets/App/Focus/AssetManagement3.png" alt="GQP Landing" width="50%" />
+  </div>
 
-## Asset Management
+  <div align="center" style="display: flex; justify-content: center; gap: 0%;">
+    <img src="assets/App/Focus/AssetManagement4.png" alt="GQP Landing" width="50%" />
+    <img src="assets/App/Focus/AssetManagement5.png" alt="GQP Landing" width="50%" />
+  </div>
+</div>
 
-![AssetManagement](assets/Light/L_AssetManagement.png#gh-light-mode-only)
-![AssetManagement](assets/Dark/D_AssetManagement.png#gh-dark-mode-only)
+# Strategy Terminal
 
-Set your system-wide account parameters across your added accounts.
+Craft and deploy sophisticated trading strategies through an in-app Jupyter Notebook leveraging the Synapse API
 
-## Macro System Controls
+<div align="center" style="display: flex; flex-direction: column; align-items: center; gap: 2px; margin-bottom: 20px;">
+  <img src="assets/App/StrategyTerminal3.png" alt="GQP Landing" width="100%" />
+  <img src="assets/App/StrategyTerminal4.png" alt="GQP Landing" width="100%" />
+  <img src="assets/App/StrategyTerminal5.png" alt="GQP Landing" width="100%" />
+</div>
 
-![MacroSystemControls](assets/Light/L_MacroSystemControls.png#gh-light-mode-only)
-![MacroSystemControls](assets/Dark/D_MacroSystemControls.png#gh-dark-mode-only)
+# Synapse Data Sources
 
-Maintain complete control over system-critical options through our pull-up Macro System Controls panel.
+Synapse Data Sources (SDS) is the all-in-one solution to managing the data sources that you use across your portfolios
 
-## Strategy Terminal
+<div align="center" style="display: flex; flex-direction: column; align-items: center; gap: 2px; margin-bottom: 20px;">   
+  <img src="assets/App/DataSources2.png" alt="GQP Landing" width="100%" />
+  <img src="assets/App/DataSources3.png" alt="GQP Landing" width="100%" />
+  <img src="assets/App/DataSources5.png" alt="GQP Landing" width="100%" />
+  <img src="assets/App/DataSources6.png" alt="GQP Landing" width="100%" />
+</div>
 
-![StrategyTerminal](assets/Light/L_TVNewSymbol.png#gh-light-mode-only)
-![StrategyTerminal](assets/Light/L_StrategyTerminal.png#gh-light-mode-only)
-![StrategyTerminal](assets/Light/L_Deployment1.png#gh-light-mode-only)
-![StrategyTerminal](assets/Light/L_Deployment2.png#gh-light-mode-only)
-![StrategyTerminal](assets/Light/L_SaveStrategy.png#gh-light-mode-only)
-![StrategyTerminal](assets/Dark/D_TVNewSymbol.png#gh-dark-mode-only)
-![StrategyTerminal](assets/Dark/D_StrategyTerminal.png#gh-dark-mode-only)
-![StrategyTerminal](assets/Dark/D_Deployment1.png#gh-dark-mode-only)
-![StrategyTerminal](assets/Dark/D_Deployment2.png#gh-dark-mode-only)
-![StrategyTerminal](assets/Dark/D_SaveStrategy.png#gh-dark-mode-only)
+# Transaction Insights
+
+View portfolio-wide transactions and key transaction insights through an interactive data table
+
+<div align="center" style="display: flex; flex-direction: column; align-items: center; gap: 2px; margin-bottom: 20px;">   
+  <img src="assets/App/TransactionInsights1.png" alt="GQP Landing" width="100%" />
+  <img src="assets/App/ParameterView.png" alt="GQP Landing" width="100%" />
+  <img src="assets/App/NewAccount2.png" alt="GQP Landing" width="100%" />
+</div>
 
 
-Craft and deploy sophisticated trading strategies with our in-app Python terminal leveraging our Synapse API.
+# Feature deep-dive
 
-## Trading Analytics
+### A new approach to portfolio management
 
-![TradingAnalytics](assets/Light/L_TradingAnalytics1.png#gh-light-mode-only)
-![TradingAnalytics](assets/Light/L_TradingAnalytics2.png#gh-light-mode-only)
-![TradingAnalytics](assets/Light/L_TradingAnalyticsNew.png#gh-light-mode-only)
-![TradingAnalytics](assets/Dark/D_TradingAnalytics1.png#gh-dark-mode-only)
-![TradingAnalytics](assets/Dark/D_TradingAnalytics2.png#gh-dark-mode-only)
-![TradingAnalytics](assets/Dark/D_TradingAnalyticsNew.png#gh-dark-mode-only)
+<div align="center" style="display: flex; justify-content: center; gap: 0%; margin-bottom: 20px;">
+  <img src="assets/App/Focus/PortfolioNavigator.png" alt="GQP Landing" width="30%" />
+  <img src="assets/App/Focus/NewPortfolio.png" alt="GQP Landing" width="70%" />
+</div>
 
-Discover rich account analytics and performance-critical algorithm data. Leverage our multi-asset fund data aggregation engine for multi-asset accounts.
+Synapse redefines algorithmic trading through its dedicated focus on user experience design. Unlike existing algorithmic trading platforms, Synapse accelerates decision-making through an intuitive interface that is easy to learn and fast to navigate. Through a centralized portfolio-driven interface, the Portfolio Navigator enables users to maintain multiple portfolios that operate simultaneously across live and simulated trading environments. Every portfolio looks the same—whether it is for live trading, paper trading, or backtesting, the difference is in the data, which makes it easier than ever to go from research to deployment while keeping tabs on multiple environments.
 
-## GS-TIDAL
+### Quantitative analytics
 
-![TIDAL](assets/Light/L_TIDAL1.png#gh-light-mode-only)
-![TIDAL](assets/Light/L_TIDAL2.png#gh-light-mode-only)
-![TIDAL](assets/Light/L_TIDAL3.png#gh-light-mode-only)
-![TIDAL](assets/Light/L_TIDALNew.png#gh-light-mode-only)
-![TIDAL](assets/Dark/D_TIDAL1.png#gh-dark-mode-only)
-![TIDAL](assets/Dark/D_TIDAL2.png#gh-dark-mode-only)
-![TIDAL](assets/Dark/D_TIDAL3.png#gh-dark-mode-only)
-![TIDAL](assets/Dark/D_TIDALNew.png#gh-dark-mode-only)
+<div align="center" style="display: flex; flex-direction: column; align-items: center; gap: 2px; margin-bottom: 20px;">
+  <img src="assets/App/Focus/QuantitativeAnalytics1.png" alt="GQP Landing" width="100%" />
+  <img src="assets/App/Focus/QuantitativeAnalytics2.png" alt="GQP Landing" width="100%" />
+</div>
 
-Dive into our comprehensive Trading Inferential Data Analysis Laboratory (TIDAL) to improve trading strategies. Track transaction states with our proprietary Parameter Snapshot feature.
+Managing Excel sheets and writing macros is time-consuming, and takes time away from signal generation and quantitative research. The Strategy Terminal is the entry point for all strategies, and once a strategy is deployed, Synapse automatically processes transactions and delivers real-time trading and portfolio analytics so you can seamlessly evaluate the performance of your algorithms.
+
+### Leverage multiple data sources
+
+<div align="center" style="display: flex; flex-direction: column; align-items: center; gap: 2px; margin-bottom: 20px;">
+  <img src="assets/App/DataSources2.png" alt="GQP Landing" width="100%" />
+
+  <img src="assets/App/StrategyTerminal2.png" alt="GQP Landing" width="100%" />
+</div>
+
+Synapse Data Sources (SDS) is the all-in-one solution to managing the data sources that you use across your portfolios. Data comes in many forms, and SDS acts as your go-to solution for storing and managing API keys or raw data files. Through SDS, users can access external data sources across portfolios in line with gathering signals from multiple sources. Whether you are pulling a machine learning model off of Hugging Face or using Alpha Vantage for additional real-time data, SDS opens opportunities for signal generation from multiple sources.
+
+SDS also opens opportunities for arbitrage by being able to execute transactions on multiple exchanges. With a built-in Sandbox Jupyter Notebook, SDS is also the perfect place to conduct quantitative research outside of the Strategy Terminal.
+
+### Multi-asset solutions
+
+<div align="center" style="display: flex; flex-direction: column; align-items: center; gap: 2px; margin-bottom: 20px;">
+  <img src="assets/App/Focus/AssetManagementFundamental.png" alt="GQP Landing" width="100%" />
+</div>
+
+Through the Asset Management tab, every portfolio is equipped to manage a collection of traded asset pairs while delivering aggregated performance insights. Users can switch between individual or aggregated asset insights system-wide.
+
+#### Algorithm actions
+
+<img src="assets/App/Focus/AlgorithmActions.png" alt="GQP Landing" width="100%" />
+
+View your collective buy/sell actions on a dedicated time series chart, and view your pooled asset performance on a normalized scale.
+
+#### Account performance
+
+<img src="assets/App/Focus/AccountPerformance.png" alt="GQP Landing" width="100%" />
+
+Compare your performance across long/short positions with a dual-axis account balance chart showcasing your asset wallet balance against your profit wallet balance.
+
+#### Trading analytics
+
+<img src="assets/App/TradingAnalytics2.png" alt="GQP Landing" width="100%" />
+
+View your profit and loss account alongside your algorithm parameters.
+
+#### Transaction insights
+
+View portfolio-wide transactions and key transaction insights through an interactive data table.
+
+### Dedicated algorithm insights
+
+<img src="assets/App/ParameterView.png" alt="GQP Landing" width="100%" />
+
+Synapse is built from the ground up with automation derived from manual trading. Skip the guesswork when looking back at transactions and discover performance-critical algorithm data by diving into transaction states through Parameter Snapshots. View the precise parameters that define every transaction, and make informed decisions on parameter optimization.
+
+### Fast navigation
+
+<div align="center" style="display: flex; justify-content: center; gap: 0%; margin-bottom: 20px;">
+  <img src="assets/App/Focus/Navbar.png" alt="GQP Landing" width="100%" />
+  <img src="assets/App/SystemControls.png" alt="GQP Landing" width="70%" />
+</div>
+
+Keep tabs on performance insights with an interface optimized for accessibility. Core insights such as system status and quantitative analytics are visible at all times on all pages, and secondary insights are one click away through the portfolio navbar. Make system-wide decisions through a pull-up System Controls panel for one-click manual intervention.
+
+### Robust asset management
+
+<div align="center" style="display: flex; flex-direction: column; align-items: center; gap: 0%; margin-bottom: 20px;">
+  <div align="center" style="display: flex; justify-content: center; gap: 0%;">
+    <img src="assets/App/Focus/AssetManagement2.png" alt="GQP Landing" width="50%" />
+    <img src="assets/App/Focus/AssetManagement3.png" alt="GQP Landing" width="50%" />
+  </div>
+</div>
+
+Discover rich portfolio management settings spanning allocation multipliers, actively managed fund allocations, data resolution, and risk-reward inputs
+
+#### Allocation
+
+<img src="assets/App/Focus/AssetManagementFundamental.png" alt="GQP Landing" width="100%" style="margin-bottom: 20px;" />
+
+Specify allocation multipliers to control the distribution of your account balance across traded asset pairs. Go one step further by specifying an actively managed fund allocation to determine the percentage of capital that is actively traded across asset pairs.
+
+#### Risk management
+
+<img src="assets/App/Focus/RiskManagement.png" alt="GQP Landing" width="100%" style="margin-bottom: 20px;" />
+
+Choose between market, stop-loss, and trailing stop-loss orders and specify your risk-reward ratio. Get specific by defining unique settings for long and short positions.
+
+### Leverage familiar tools
+
+<img src="assets/App/StrategyTerminal2.png" alt="GQP Landing" width="100%" style="margin-bottom: 20px;" />
+
+With an integrated TradingView chart, benefit from a familiar setting by exploring strategies through an interactive chart before writing quantitative models in the in-app Strategy Terminal Jupyter Notebook.
+
+### Looking ahead
+
+<img src="assets/Branding/GQPBannerSmall.png" alt="GQP Landing" width="100%" style="margin-bottom: 20px;" />
+
+As of Q2 2024, Synapse exclusively covers cryptocurrency spot trading on select exchanges. Support for multiple asset classes is a long-term goal of Synapse, and the platform is fast approaching its final development phase before opening up for beta testing to select participants.
 
 ### Notes
 
 1. Synapse, by GQP, is fast approaching its final development phase after which the platform will be open to select participants for Beta Testing. If you are interested, feel free to contact me via my socials on my profile.
+
 
 Copyright © 2024 Genesis Quantitative Platforms
