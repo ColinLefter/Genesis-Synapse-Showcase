@@ -15,16 +15,16 @@ Discover rich portfolio management settings spanning allocation multipliers, act
 
 <div align="center" style="display: flex; flex-direction: column; align-items: center; gap: 0%; margin-bottom: 20px;">
   <div align="center" style="display: flex; justify-content: center; gap: 0%;">
-    <img src="assets/App/AssetManagement1.png" alt="GQP Landing" width="100%" />
+    <img src="assets/App/AssetManagement1.png" alt="GQP Landing" width="99%" />
   </div>
   <div align="center" style="display: flex; justify-content: center; gap: 0%;">
-    <img src="assets/App/Focus/AssetManagement2.png" alt="GQP Landing" width="50%" />
-    <img src="assets/App/Focus/AssetManagement3.png" alt="GQP Landing" width="50%" />
+    <img src="assets/App/Focus/AssetManagement2.png" alt="GQP Landing" width="49%" />
+    <img src="assets/App/Focus/AssetManagement3.png" alt="GQP Landing" width="49%" />
   </div>
 
   <div align="center" style="display: flex; justify-content: center; gap: 0%;">
-    <img src="assets/App/Focus/AssetManagement4.png" alt="GQP Landing" width="50%" />
-    <img src="assets/App/Focus/AssetManagement5.png" alt="GQP Landing" width="50%" />
+    <img src="assets/App/Focus/AssetManagement4.png" alt="GQP Landing" width="49%" />
+    <img src="assets/App/Focus/AssetManagement5.png" alt="GQP Landing" width="49%" />
   </div>
 </div>
 
@@ -65,8 +65,8 @@ View portfolio-wide transactions and key transaction insights through an interac
 ### A new approach to portfolio management
 
 <div align="center" style="display: flex; justify-content: center; gap: 0%; margin-bottom: 20px;">
-  <img src="assets/App/Focus/PortfolioNavigator.png" alt="GQP Landing" width="30%" />
-  <img src="assets/App/Focus/NewPortfolio.png" alt="GQP Landing" width="70%" />
+  <img src="assets/App/Focus/PortfolioNavigator.png" alt="GQP Landing" width="25%" />
+  <img src="assets/App/Focus/NewPortfolio.png" alt="GQP Landing" width="65%" />
 </div>
 
 Synapse redefines algorithmic trading through its dedicated focus on user experience design. Unlike existing algorithmic trading platforms, Synapse accelerates decision-making through an intuitive interface that is easy to learn and fast to navigate. Through a centralized portfolio-driven interface, the Portfolio Navigator enables users to maintain multiple portfolios that operate simultaneously across live and simulated trading environments. Every portfolio looks the same—whether it is for live trading, paper trading, or backtesting, the difference is in the data, which makes it easier than ever to go from research to deployment while keeping tabs on multiple environments.
@@ -132,7 +132,7 @@ Synapse is built from the ground up with automation derived from manual trading.
 
 <div align="center" style="display: flex; justify-content: center; gap: 0%; margin-bottom: 20px;">
   <img src="assets/App/Focus/Navbar.png" alt="GQP Landing" width="100%" />
-  <img src="assets/App/SystemControls.png" alt="GQP Landing" width="70%" />
+  <img src="assets/App/SystemControls.png" alt="GQP Landing" width="100%" />
 </div>
 
 Keep tabs on performance insights with an interface optimized for accessibility. Core insights such as system status and quantitative analytics are visible at all times on all pages, and secondary insights are one click away through the portfolio navbar. Make system-wide decisions through a pull-up System Controls panel for one-click manual intervention.
@@ -141,8 +141,8 @@ Keep tabs on performance insights with an interface optimized for accessibility.
 
 <div align="center" style="display: flex; flex-direction: column; align-items: center; gap: 0%; margin-bottom: 20px;">
   <div align="center" style="display: flex; justify-content: center; gap: 0%;">
-    <img src="assets/App/Focus/AssetManagement2.png" alt="GQP Landing" width="50%" />
-    <img src="assets/App/Focus/AssetManagement3.png" alt="GQP Landing" width="50%" />
+    <img src="assets/App/Focus/AssetManagement2.png" alt="GQP Landing" width="49%" />
+    <img src="assets/App/Focus/AssetManagement3.png" alt="GQP Landing" width="49%" />
   </div>
 </div>
 
