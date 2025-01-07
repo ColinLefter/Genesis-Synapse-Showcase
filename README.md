@@ -173,4 +173,4 @@ As of Q2 2024, Synapse exclusively covers cryptocurrency spot trading on select 
 1. Synapse, by GQP, is fast approaching its final development phase after which the platform will be open to select participants for Beta Testing. If you are interested, feel free to contact me via my socials on my profile.
 
 
-Copyright © 2024 Genesis Quantitative Platforms
+Copyright © 2025 Genesis Quantitative Platforms
